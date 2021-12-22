@@ -6,7 +6,7 @@ module
 Requirements
 > Nordvpn-bin / py3status
 
-![This is an image](example.png)
+![Example](example.png)
 
 >my i3status.conf settings for the script
 ```
